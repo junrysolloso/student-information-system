@@ -1,0 +1,34 @@
+Contact Person
+----------------------------------
+dt_firstname
+dt_middlename
+dt_lastname
+dt_address
+dt_phone
+dt_email
+
+Personal Information
+----------------------------------
+dt_firstname
+dt_lastname
+dt_middlename
+dt_gender
+dt_bdate
+dt_bplace
+dt_religion
+dt_nationality
+dt_phone
+dt_image
+
+Educational Information
+----------------------------------
+dt_id
+dt_program
+dt_yearlevel
+dt_academicyear
+dt_department
+dt_dateenroll
+
+
+
+C:\Users\USER\Documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem

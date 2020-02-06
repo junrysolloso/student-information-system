@@ -1,0 +1,57 @@
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.manifest
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.application
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_about.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_loading.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_main.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_message.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_login.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe.manifest
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.application
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\USER\documents\visual studio 2015\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.manifest
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.application
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_about.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_loading.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_main.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_message.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.frm_login.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe.manifest
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.application
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojAssemblyReference.cache
+F:\System\VB.Net\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.CopyComplete
